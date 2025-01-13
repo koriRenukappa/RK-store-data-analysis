@@ -13,4 +13,5 @@ The RK Store wants to create an annual sales report for 2022. So that, the owner
 - List top 10 states contributing the states.
 - Relation between age and gender based on number of orders.
 
-- 
+## Dashboard
+- <a href="https://github.com/koriRenukappa/RK-store-data-analysis/blob/a6bf5e0e5cfed00350686d6a20a5093dfdf48030/dashboard%20pic.PNG">View Dashboard</a>
